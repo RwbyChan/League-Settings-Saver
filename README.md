@@ -3,7 +3,7 @@ A simple application to export and import your League Of Legends settings
 
 ## Screenshots
 
-![Select League Of Legends folder](https://i.imgur.com/pHTIIYC.png) "Select League Of Legends folder")
+![Select League Of Legends folder](https://i.imgur.com/pHTIIYC.png "Select League Of Legends folder")
 
 ![League Settings Saver](https://i.imgur.com/nrJkFHv.png "League Settings Saver")
 
