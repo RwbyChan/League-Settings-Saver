@@ -7,6 +7,11 @@ A simple application to export and import your League Of Legends settings
 
 ![League Settings Saver](https://i.imgur.com/nrJkFHv.png "League Settings Saver")
 
+## Install
+- Download the [latest release](https://github.com/RwbyChan/League-Settings-Saver/releases)
+- Extract the zip file
+- Run `LeagueSettingsSaver.exe`
+
 ## First use
 - When you open the app for the first time, you'll have to select where your League Of Legends folder is located.
 
